@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "whirldata",
+    "password": "Whirldata@123",
+    "database": "billing_system",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "whirldata",
+    "password": "Whirldata@123",
+    "database": "billing_system",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "whirldata",
+    "password": "Whirldata@123",
+    "database": "billing_system",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
